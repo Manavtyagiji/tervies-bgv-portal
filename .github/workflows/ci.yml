@@ -29,7 +29,14 @@ jobs:
       - name: Install Frontend Dependencies
         working-directory: ./frontend
         run: npm install
+            - name: Backend Security Audit
+        working-directory: ./backend
+        run: npm audit --audit-level=high
 
+      - name: Frontend Security Audit
+        working-directory: ./frontend
+        run: npm audit --audit-level=high
+        
       - name: Build Frontend
         working-directory: ./frontend
         run: npm run build
