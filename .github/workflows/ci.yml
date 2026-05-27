@@ -29,17 +29,24 @@ jobs:
       - name: Install Frontend Dependencies
         working-directory: ./frontend
         run: npm install
-            - name: Backend Security Audit
+
+      - name: Backend Security Audit
         working-directory: ./backend
         run: npm audit --audit-level=high
 
       - name: Frontend Security Audit
         working-directory: ./frontend
         run: npm audit --audit-level=high
-        
+
       - name: Build Frontend
         working-directory: ./frontend
         run: npm run build
 
-      - name: Docker Compose Build
-        run: docker compose build
+      - name: Build Backend Docker Image
+        run: docker build -t tervies-backend ./backend
+
+      - name: Build Frontend Docker Image
+        run: docker build -t tervies-frontend ./frontend
+
+      - name: Docker Compose Validation
+        run: docker compose config
