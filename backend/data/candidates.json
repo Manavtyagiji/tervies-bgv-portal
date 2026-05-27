@@ -1,0 +1,105 @@
+[
+  {
+    "id": "CAND-1777541783062",
+    "name": "aryan chaudhary",
+    "email": "as@gmail.com",
+    "phone": "1234567890",
+    "password": "$2b$10$KMDunUfQeqws76IvIQ6teuWRyWJ4fwnXUNkaEbY7r4J5ww7lw4X6O",
+    "createdAt": "2026-04-30T09:36:23.062Z",
+    "resumes": [
+      {
+        "key": "resumes/-1777542441653-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-04-30T09:47:21.947Z",
+        "caseId": ""
+      }
+    ]
+  },
+  {
+    "id": "CAND-1777610516366",
+    "name": "aryan chaudhary",
+    "email": "as4@gmail.com",
+    "phone": "1234567890",
+    "password": "$2b$10$LPHVrK06P1aBjNG7PqJAAeJVaVC29nBGu0HIpVkjE7LEyNaDBu7IO",
+    "createdAt": "2026-05-01T04:41:56.366Z",
+    "resumes": [
+      {
+        "key": "resumes/CAND-1777610516366-1777635350275-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-05-01T11:35:50.625Z"
+      },
+      {
+        "key": "resumes/CAND-1777610516366-1777635326302-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-05-01T11:35:26.534Z"
+      },
+      {
+        "key": "resumes/CAND-1777610516366-1777632940022-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-05-01T10:55:40.331Z"
+      }
+    ],
+    "profileComplete": true
+  },
+  {
+    "id": "CAND-1777637924018",
+    "name": "aryan chaudhary",
+    "email": "asdf@gmail.com",
+    "phone": "8650547664",
+    "password": "$2b$10$68HzkPaaKmfRJStrSQp4Ie2MX6zR3ZiDocoEXiedC24bAQlocqzDq",
+    "profileComplete": true,
+    "createdAt": "2026-05-01T12:18:44.018Z",
+    "resumes": [
+      {
+        "key": "resumes/CAND-1777637924018-1777875421639-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-05-04T06:17:01.960Z"
+      }
+    ]
+  },
+  {
+    "id": "CAND-1777875683792",
+    "name": "aryan chaudhary",
+    "email": "aryanchaudhary0712@gmail.com",
+    "phone": "8650547664",
+    "password": "$2b$10$WljLCSu0iMvRlq3Cv0k7UeNgIotuZ8YDvSIFmtIN8SIFft5t9eXpG",
+    "profileComplete": true,
+    "createdAt": "2026-05-04T06:21:23.792Z",
+    "resumes": [
+      {
+        "key": "resumes/CAND-1777875683792-1777955478820-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-05-05T04:31:19.110Z"
+      }
+    ]
+  },
+  {
+    "id": "CAND-1778046335417",
+    "name": "Venus Yadav",
+    "email": "venus@gmail.com",
+    "phone": "1234567890",
+    "password": "$2b$10$Zqr2mP4lqrt.ffwnqrxfy.TyHLXLf5i9rM3W8kdmM8h.6OiHqb.my",
+    "profileComplete": true,
+    "createdAt": "2026-05-06T05:45:35.417Z",
+    "resumes": [
+      {
+        "key": "resumes/CAND-1778046335417-1778046380506-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-05-06T05:46:20.702Z"
+      },
+      {
+        "key": "resumes/CAND-1778046335417-1778046370525-Aryan_Chaudhary_resume_(2).pdf",
+        "originalName": "Aryan_Chaudhary_resume (2).pdf",
+        "size": 122734,
+        "uploadedAt": "2026-05-06T05:46:10.822Z"
+      }
+    ]
+  }
+]

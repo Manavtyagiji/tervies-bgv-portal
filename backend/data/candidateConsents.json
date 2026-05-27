@@ -1,0 +1,42 @@
+[
+  {
+    "candidateId": "CAND-1777610516366",
+    "email": "as4@gmail.com",
+    "consentBGV": true,
+    "consentPrivacy": true,
+    "consentSignature": "wae",
+    "consentDate": "2026-05-01",
+    "signedAt": "2026-05-01T11:35:50.635Z",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "candidateId": "CAND-1777637924018",
+    "email": "asdf@gmail.com",
+    "consentBGV": true,
+    "consentPrivacy": true,
+    "consentSignature": "aryan",
+    "consentDate": "2026-05-04",
+    "signedAt": "2026-05-04T06:17:02.149Z",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "candidateId": "CAND-1777875683792",
+    "email": "aryanchaudhary0712@gmail.com",
+    "consentBGV": true,
+    "consentPrivacy": true,
+    "consentSignature": "wq",
+    "consentDate": "2026-05-04",
+    "signedAt": "2026-05-05T04:31:19.118Z",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "candidateId": "CAND-1778046335417",
+    "email": "venus@gmail.com",
+    "consentBGV": true,
+    "consentPrivacy": true,
+    "consentSignature": "fg",
+    "consentDate": "2026-05-06",
+    "signedAt": "2026-05-06T05:46:10.830Z",
+    "ipAddress": "127.0.0.1"
+  }
+]

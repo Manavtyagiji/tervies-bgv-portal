@@ -1,0 +1,128 @@
+[
+  {
+    "candidateId": "CAND-1777610516366",
+    "name": "aryan chaudhary",
+    "email": "as4@gmail.com",
+    "bio": "asdf",
+    "city": "asd",
+    "linkedIn": "asds",
+    "portfolio": "adsfds",
+    "degree": "a",
+    "college": "das",
+    "graduationYear": "2028",
+    "percentage": "5",
+    "desiredRole": "Software Engineer",
+    "experience": "Fresher (0 yrs)",
+    "industry": "Information Technology",
+    "skills": [
+      "React"
+    ],
+    "updatedAt": "2026-05-01T11:35:50.253Z",
+    "createdAt": "2026-05-01T10:55:40.003Z",
+    "latestResume": {
+      "key": "resumes/CAND-1777610516366-1777635350275-Aryan_Chaudhary_resume_(2).pdf",
+      "originalName": "Aryan_Chaudhary_resume (2).pdf",
+      "size": 122734,
+      "uploadedAt": "2026-05-01T11:35:50.625Z"
+    },
+    "consentSigned": true,
+    "consentSignedAt": "2026-05-01T11:35:50.635Z",
+    "consentSignature": "wae",
+    "consentDate": "2026-05-01"
+  },
+  {
+    "candidateId": "CAND-1777637924018",
+    "name": "aryan chaudhary",
+    "email": "asdf@gmail.com",
+    "bio": "bhgfe",
+    "city": "rewq",
+    "linkedIn": "",
+    "portfolio": "",
+    "degree": "345",
+    "college": "tre1",
+    "graduationYear": "2028",
+    "percentage": "",
+    "desiredRole": "Software Engineer",
+    "experience": "5+ Years",
+    "industry": "E-Commerce",
+    "skills": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-05-04T06:17:01.619Z",
+    "createdAt": "2026-05-04T06:17:01.619Z",
+    "latestResume": {
+      "key": "resumes/CAND-1777637924018-1777875421639-Aryan_Chaudhary_resume_(2).pdf",
+      "originalName": "Aryan_Chaudhary_resume (2).pdf",
+      "size": 122734,
+      "uploadedAt": "2026-05-04T06:17:01.960Z"
+    },
+    "introVideoKey": "intro-videos/CAND-1777637924018-1777875421978-4872-360.mp4",
+    "introVideoUploadedAt": "2026-05-04T06:17:02.141Z",
+    "consentSigned": true,
+    "consentSignedAt": "2026-05-04T06:17:02.149Z",
+    "consentSignature": "aryan",
+    "consentDate": "2026-05-04"
+  },
+  {
+    "candidateId": "CAND-1777875683792",
+    "name": "aryan chaudhary",
+    "email": "aryanchaudhary0712@gmail.com",
+    "bio": "2",
+    "city": "12",
+    "linkedIn": "",
+    "portfolio": "",
+    "degree": "23",
+    "college": "32",
+    "graduationYear": "2028",
+    "percentage": "3",
+    "desiredRole": "Software Engineer",
+    "experience": "Fresher (0 yrs)",
+    "industry": "Information Technology",
+    "skills": [
+      "JavaScript"
+    ],
+    "updatedAt": "2026-05-05T04:31:18.791Z",
+    "createdAt": "2026-05-05T04:31:18.792Z",
+    "latestResume": {
+      "key": "resumes/CAND-1777875683792-1777955478820-Aryan_Chaudhary_resume_(2).pdf",
+      "originalName": "Aryan_Chaudhary_resume (2).pdf",
+      "size": 122734,
+      "uploadedAt": "2026-05-05T04:31:19.110Z"
+    },
+    "consentSigned": true,
+    "consentSignedAt": "2026-05-05T04:31:19.118Z",
+    "consentSignature": "wq",
+    "consentDate": "2026-05-04"
+  },
+  {
+    "candidateId": "CAND-1778046335417",
+    "name": "Venus Yadav",
+    "email": "venus@gmail.com",
+    "bio": "fghn",
+    "city": "nb",
+    "linkedIn": "nj",
+    "portfolio": "b",
+    "degree": "nb",
+    "college": "nb",
+    "graduationYear": "2028",
+    "percentage": "8",
+    "desiredRole": "Software Engineer",
+    "experience": "Fresher (0 yrs)",
+    "industry": "Information Technology",
+    "skills": [
+      "JavaScript"
+    ],
+    "updatedAt": "2026-05-06T05:46:10.503Z",
+    "createdAt": "2026-05-06T05:46:10.503Z",
+    "latestResume": {
+      "key": "resumes/CAND-1778046335417-1778046380506-Aryan_Chaudhary_resume_(2).pdf",
+      "originalName": "Aryan_Chaudhary_resume (2).pdf",
+      "size": 122734,
+      "uploadedAt": "2026-05-06T05:46:20.702Z"
+    },
+    "consentSigned": true,
+    "consentSignedAt": "2026-05-06T05:46:10.830Z",
+    "consentSignature": "fg",
+    "consentDate": "2026-05-06"
+  }
+]

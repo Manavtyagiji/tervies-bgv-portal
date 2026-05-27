@@ -1,0 +1,1352 @@
+[
+  {
+    "caseId": "GVS-1771324916799",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-18T10:20:00.076Z"
+  },
+  {
+    "caseId": "GVS-1770990657004",
+    "action": "Status changed to DISCREPANCY",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-18T10:20:02.374Z"
+  },
+  {
+    "caseId": "GVS-1770990657004",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-18T10:20:13.912Z"
+  },
+  {
+    "caseId": "GVS-1771324916799",
+    "action": "Status changed to VERIFIED",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-18T11:33:43.862Z"
+  },
+  {
+    "caseId": "GVS-1771324916799",
+    "action": "Status changed to DISCREPANCY",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-19T05:10:54.179Z"
+  },
+  {
+    "caseId": "GVS-1772086003165",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-26T13:32:41.119Z"
+  },
+  {
+    "caseId": "GVS-1772086003165",
+    "action": "Status changed to SUBMITTED",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-26T13:32:44.738Z"
+  },
+  {
+    "caseId": "GVS-1770187495498",
+    "action": "Status changed to SUBMITTED",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-27T04:19:30.237Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to INSUFFICIENT",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-27T04:19:36.302Z"
+  },
+  {
+    "caseId": "GVS-1770195504775",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-02-27T04:19:39.419Z"
+  },
+  {
+    "caseId": "GVS-1772699078778",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-05T09:23:12.906Z"
+  },
+  {
+    "caseId": "GVS-1772699453115",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-05T09:23:21.055Z"
+  },
+  {
+    "caseId": "GVS-1772699527378",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-05T09:23:25.773Z"
+  },
+  {
+    "caseId": "GVS-1772700051467",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-05T09:23:27.608Z"
+  },
+  {
+    "caseId": "GVS-1772695495846",
+    "action": "Status changed to SUBMITTED",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-05T09:23:30.275Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Status changed to SUBMITTED",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-05T09:23:33.142Z"
+  },
+  {
+    "caseId": "GVS-1772700051467",
+    "action": "Status changed to DISCREPANCY",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T05:42:25.528Z"
+  },
+  {
+    "caseId": "GVS-1772700051467",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T08:27:14.602Z"
+  },
+  {
+    "caseId": "GVS-1772700051467",
+    "action": "Status changed to INSUFFICIENT",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T08:27:17.750Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Status changed to VERIFIED",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T08:27:22.018Z"
+  },
+  {
+    "caseId": "GVS-1772791757636",
+    "action": "Status changed to INSUFFICIENT",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T10:11:18.749Z"
+  },
+  {
+    "caseId": "GVS-1772791757636",
+    "action": "Status changed to DISCREPANCY",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T12:26:52.928Z"
+  },
+  {
+    "caseId": "GVS-1772791757636",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T12:26:57.945Z"
+  },
+  {
+    "caseId": "GVS-1772700135360",
+    "action": "Status changed to DISCREPANCY",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T12:26:59.827Z"
+  },
+  {
+    "caseId": "GVS-1772700051467",
+    "action": "Status changed to DISCREPANCY",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T12:27:01.410Z"
+  },
+  {
+    "caseId": "GVS-1772700135360",
+    "action": "Status changed to VERIFIED",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T12:27:26.414Z"
+  },
+  {
+    "caseId": "GVS-1772791757636",
+    "action": "Status changed to SUBMITTED",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T12:27:30.465Z"
+  },
+  {
+    "caseId": "GVS-1772700135360",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-06T12:27:32.465Z"
+  },
+  {
+    "caseId": "GVS-1772700135360",
+    "action": "Status changed to VERIFIED",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-12T05:31:21.048Z"
+  },
+  {
+    "caseId": "GVS-1770187268035",
+    "action": "Status changed to DISCREPANCY",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-13T05:55:04.019Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Status changed to INSUFFICIENT",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-13T05:55:14.018Z"
+  },
+  {
+    "caseId": "GVS-1770185929514",
+    "action": "Status changed to UNDER_REVIEW",
+    "actor": "ADMIN",
+    "timestamp": "2026-03-16T09:53:12.477Z"
+  },
+  {
+    "caseId": "GVS-123",
+    "action": "Status changed to CLOSED",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-02T07:00:27.489Z"
+  },
+  {
+    "caseId": "GVS-12",
+    "action": "Status changed to CLOSED",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-03T05:34:50.158Z"
+  },
+  {
+    "caseId": "GVS-12",
+    "action": "Status changed to SUBMITTED",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-03T10:16:46.001Z"
+  },
+  {
+    "caseId": "GVS-12",
+    "action": "Status changed to CLOSED",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-03T11:24:26.428Z"
+  },
+  {
+    "caseId": "GVS-12",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T04:52:08.817Z"
+  },
+  {
+    "caseId": "CMP-1775206860346-202",
+    "action": "Company deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T04:59:52.032Z"
+  },
+  {
+    "caseId": "CMP-1775107413812-851",
+    "action": "Company deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T04:59:58.095Z"
+  },
+  {
+    "caseId": "CMP-1771230611877",
+    "action": "Company deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T05:05:42.783Z"
+  },
+  {
+    "caseId": "GVS-123",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T05:06:19.439Z"
+  },
+  {
+    "caseId": "GVS-1770187268035",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T05:22:03.361Z"
+  },
+  {
+    "caseId": "GVS-1770187495498",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T05:22:06.609Z"
+  },
+  {
+    "caseId": "GVS-1772699527378",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T05:22:11.843Z"
+  },
+  {
+    "caseId": "GVS-1770185929514",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T08:08:53.828Z"
+  },
+  {
+    "caseId": "GVS-1770186703933",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T11:16:14.836Z"
+  },
+  {
+    "caseId": "GVS-1770187577630",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-09T11:16:22.286Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:39.629Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:40.842Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:41.524Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:42.042Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:42.441Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:42.858Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:43.407Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:44.341Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:45.025Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:48:45.625Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:53:08.584Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:53:09.633Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:53:10.233Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:53:10.733Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T09:53:11.399Z"
+  },
+  {
+    "caseId": "GVS-1772695495846",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:01:40.892Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:05:02.807Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:07:51.355Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:09.655Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:10.387Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:15.172Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:16.122Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:16.873Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:29.041Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:29.991Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:33.730Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:09:34.310Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:18:50.831Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:18:51.596Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:18:52.311Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:18:52.945Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:18:53.829Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:19:27.305Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:20:22.632Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:20:23.285Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:20:31.469Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:20:36.220Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:20:37.203Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:20:37.901Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:41:04.770Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:41:05.934Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:41:06.817Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:41:08.150Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:41:57.312Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:42:11.148Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:42:11.748Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:45:54.325Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:45:55.762Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:48:23.677Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T10:48:24.126Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:00:16.532Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:01:08.674Z"
+  },
+  {
+    "caseId": "GVS-123",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:23:25.575Z"
+  },
+  {
+    "caseId": "GVS-123",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:23:27.535Z"
+  },
+  {
+    "caseId": "GVS-123",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:36:37.821Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:39:52.949Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:39:53.697Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:39:56.797Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:39:57.513Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:40:12.532Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:40:13.048Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:41:09.342Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:41:10.176Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:55:48.632Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:55:49.126Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:59:02.494Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T11:59:03.243Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T12:06:01.548Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T12:06:02.164Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T12:13:34.272Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T12:13:35.071Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T12:13:57.491Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T12:49:10.217Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-10T12:50:13.860Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T06:32:56.630Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T07:09:34.995Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T07:09:35.642Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T07:10:04.331Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T07:10:04.914Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T07:21:57.438Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T07:21:58.021Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T09:17:52.081Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T09:17:52.564Z"
+  },
+  {
+    "caseId": "GVS-1",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T09:18:19.251Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T09:22:07.027Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T13:50:23.735Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T13:50:24.645Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T13:50:53.552Z"
+  },
+  {
+    "caseId": "GVS-1772695495846",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T14:49:17.275Z"
+  },
+  {
+    "caseId": "GVS-1772695495846",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T14:49:18.059Z"
+  },
+  {
+    "caseId": "GVS-1772699078778",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T15:21:28.310Z"
+  },
+  {
+    "caseId": "GVS-1772699078778",
+    "action": "Status changed to undefined",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-11T15:21:28.922Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-04-12T16:03:07.658Z"
+  },
+  {
+    "caseId": "SPR-1776685450395-0",
+    "action": "Case created by company SpringVerify",
+    "actor": "COMPANY",
+    "timestamp": "2026-04-20T11:44:10.431Z"
+  },
+  {
+    "caseId": "SPR-1776690983189-0",
+    "action": "Case created by company SpringVerify",
+    "actor": "COMPANY",
+    "timestamp": "2026-04-20T13:16:23.209Z"
+  },
+  {
+    "caseId": "SPR-1776691046150-0",
+    "action": "Case created by company SpringVerify",
+    "actor": "COMPANY",
+    "timestamp": "2026-04-20T13:17:26.165Z"
+  },
+  {
+    "caseId": "AVR-1778842982449",
+    "action": "Address verification submitted by sugandh",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-15T11:03:03.271Z"
+  },
+  {
+    "caseId": "AVR-1778842982449",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-15T11:03:59.282Z"
+  },
+  {
+    "caseId": "AVR-1778850622475",
+    "action": "Address verification submitted by qwe",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-15T13:10:23.211Z"
+  },
+  {
+    "caseId": "AVR-1778850622475",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-15T13:10:47.840Z"
+  },
+  {
+    "caseId": "AVR-1778850622475",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-15T13:12:04.040Z"
+  },
+  {
+    "caseId": "AVR-1778850839362",
+    "action": "Address verification submitted by qwe",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-15T13:13:59.859Z"
+  },
+  {
+    "caseId": "AVR-1778850839362",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-15T13:14:19.309Z"
+  },
+  {
+    "caseId": "AVR-1779084644262",
+    "action": "Address verification submitted by qwe",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-18T06:10:45.310Z"
+  },
+  {
+    "caseId": "AVR-1779084644262",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T06:11:39.602Z"
+  },
+  {
+    "caseId": "AVR-1779086094155",
+    "action": "Address verification submitted by qwe",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-18T06:34:54.708Z"
+  },
+  {
+    "caseId": "AVR-1779086094155",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T06:35:04.890Z"
+  },
+  {
+    "caseId": "AVR-1779087147812",
+    "action": "Address verification submitted by qwe",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-18T06:52:28.400Z"
+  },
+  {
+    "caseId": "AVR-1779087147812",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T06:52:35.395Z"
+  },
+  {
+    "caseId": "AVR-1779087147812",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T07:02:07.622Z"
+  },
+  {
+    "caseId": "AVR-1779087784717",
+    "action": "Address verification submitted by qwe",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-18T07:03:05.622Z"
+  },
+  {
+    "caseId": "AVR-1779087784717",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T07:03:15.232Z"
+  },
+  {
+    "caseId": "AVR-1778850622475",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T07:03:53.941Z"
+  },
+  {
+    "caseId": "AVR-1779087784717",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T07:10:48.092Z"
+  },
+  {
+    "caseId": "AVR-1779087784717",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T11:30:37.817Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification submitted by as",
+    "actor": "CANDIDATE",
+    "timestamp": "2026-05-18T11:54:14.608Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T11:54:33.755Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T11:59:22.714Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T11:59:47.587Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T12:04:28.105Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T12:30:33.581Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T12:49:59.807Z"
+  },
+  {
+    "caseId": "AVR-1779087784717",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T12:50:53.275Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:02:42.777Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:06:47.128Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:08:30.887Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:09:53.016Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:12:45.762Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:17:18.038Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:23:13.508Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:23:51.591Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:24:29.886Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:25:18.798Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T13:26:43.690Z"
+  },
+  {
+    "caseId": "AVR-1779105254053",
+    "action": "Address verification PDF report generated",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-18T14:04:45.690Z"
+  },
+  {
+    "caseId": "4",
+    "action": "Case details updated manually",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:09:35.692Z"
+  },
+  {
+    "caseId": "GVS-1772699078778",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:03.492Z"
+  },
+  {
+    "caseId": "GVS-1772541919241",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:06.173Z"
+  },
+  {
+    "caseId": "GVS-1",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:08.139Z"
+  },
+  {
+    "caseId": "SPR-1776685450395-0",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:09.838Z"
+  },
+  {
+    "caseId": "4",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:13.906Z"
+  },
+  {
+    "caseId": "2",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:15.772Z"
+  },
+  {
+    "caseId": "3",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:17.656Z"
+  },
+  {
+    "caseId": "sa",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:19.292Z"
+  },
+  {
+    "caseId": "1",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:20.942Z"
+  },
+  {
+    "caseId": "SPR-1776691046150-0",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:23.360Z"
+  },
+  {
+    "caseId": "SPR-1776690983189-0",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:25.042Z"
+  },
+  {
+    "caseId": "GVS-1770188088437",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:37.175Z"
+  },
+  {
+    "caseId": "GVS-1772695495846",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:39.127Z"
+  },
+  {
+    "caseId": "GVS-1772699453115",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:41.160Z"
+  },
+  {
+    "caseId": "GVS-1772700051467",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:42.992Z"
+  },
+  {
+    "caseId": "GVS-1772700135360",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:46.079Z"
+  },
+  {
+    "caseId": "GVS-1772791757636",
+    "action": "Case deleted",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-20T10:48:48.394Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "QC report saved (merged)",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-21T07:03:45.626Z"
+  },
+  {
+    "caseId": "TVS/EDU/2026-1",
+    "action": "QC report saved (merged)",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-21T07:08:40.183Z"
+  },
+  {
+    "caseId": "Manav Tyagi",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T10:12:23.014Z"
+  },
+  {
+    "caseId": "Manav Tyagi",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T10:13:08.535Z"
+  },
+  {
+    "caseId": "Manav Tyagi",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T10:17:41.918Z"
+  },
+  {
+    "caseId": "TVS-1",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T10:37:14.863Z"
+  },
+  {
+    "caseId": "15",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T10:37:47.914Z"
+  },
+  {
+    "caseId": "11",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T10:46:10.581Z"
+  },
+  {
+    "caseId": "hjk",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T10:54:12.269Z"
+  },
+  {
+    "caseId": "rahul",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T11:03:31.505Z"
+  },
+  {
+    "caseId": "Manav Tyagi",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T11:12:55.559Z"
+  },
+  {
+    "caseId": "1",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T11:13:46.330Z"
+  },
+  {
+    "caseId": "1",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T11:15:36.752Z"
+  },
+  {
+    "caseId": "1",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T11:25:44.502Z"
+  },
+  {
+    "caseId": "15",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T11:26:19.388Z"
+  },
+  {
+    "caseId": "Manav Tyagi",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T12:06:55.317Z"
+  },
+  {
+    "caseId": "TVS-1",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T12:13:50.768Z"
+  },
+  {
+    "caseId": "TVS-1",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-22T12:17:51.373Z"
+  },
+  {
+    "caseId": "ytr",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-23T04:27:33.775Z"
+  },
+  {
+    "caseId": "tre",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-23T04:55:00.783Z"
+  },
+  {
+    "caseId": "trtrwe",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-23T05:23:36.046Z"
+  },
+  {
+    "caseId": "FDR-INF-1779688561266",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-25T12:32:44.830Z"
+  },
+  {
+    "caseId": "FDR-INF-1779688561266",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-25T13:38:17.034Z"
+  },
+  {
+    "caseId": "FDR-INF-1779688561266",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-26T04:37:01.863Z"
+  },
+  {
+    "caseId": "TCS-1779191398063-3",
+    "action": "Report sent to CRM",
+    "actor": "ADMIN",
+    "timestamp": "2026-05-26T04:38:07.679Z"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "CLT-1777875075277",
+    "contactName": "aryan chaudhary",
+    "companyName": "i dont have company",
+    "name": "i dont have company",
+    "email": "aryanchaudhary0712@gmail.com",
+    "password": "$2b$10$/PJNcTtzeadjJ.bgYPI6G.ioAtbvhEr/CM9KA4N80/k5XCYr.gANa",
+    "assignedCaseIds": [],
+    "plan": null,
+    "createdAt": "2026-05-04T06:11:15.277Z"
+  },
+  {
+    "id": "CLT-1777955547907",
+    "contactName": "aryan chaudhary",
+    "companyName": "i dont have company",
+    "name": "i dont have company",
+    "email": "aryanchaudhary07123@gmail.com",
+    "password": "$2b$10$Oo6TeBtyM6Fca8vzXMYjB.nDiMoGhzZ156Ah6VU3xPFPM8rwNoyWK",
+    "assignedCaseIds": [],
+    "plan": "free",
+    "createdAt": "2026-05-05T04:32:27.907Z",
+    "planSetAt": "2026-05-05T04:32:30.611Z"
+  },
+  {
+    "id": "CLT-1778045535438",
+    "contactName": "aryan chaudhary",
+    "companyName": "i dont have company",
+    "name": "i dont have company",
+    "email": "as@gmail.com",
+    "password": "$2b$10$CtGcw/YFgdRLVni0VpkmxuJgqdte3uGhtvv1cNFxaf0JM.U9yDlbC",
+    "assignedCaseIds": [],
+    "plan": "free",
+    "createdAt": "2026-05-06T05:32:15.439Z",
+    "planSetAt": "2026-05-06T05:32:27.414Z"
+  },
+  {
+    "id": "CLT-1778046430933",
+    "contactName": "aryan chaudhary",
+    "companyName": "i dont have company",
+    "name": "i dont have company",
+    "email": "aryanchaudhary07124@gmail.com",
+    "password": "$2b$10$XGmaid/58jsmB6gPyPbF5easckOIm5UQ1qYzhMZqva5xLT3r5mSWC",
+    "assignedCaseIds": [],
+    "plan": "gold",
+    "createdAt": "2026-05-06T05:47:10.933Z",
+    "planSetAt": "2026-05-06T06:42:26.420Z"
+  },
+  {
+    "id": "CLT-1778073096380",
+    "contactName": "aryan chaudhary",
+    "companyName": "i dont have company",
+    "name": "i dont have company",
+    "email": "asd@gmail.com",
+    "password": "$2b$10$FbKR1FDnwRWVq81nUgULWuK0CKAFm7daHdKpWGb4fMXjaYUWF5AH6",
+    "assignedCaseIds": [],
+    "plan": "free",
+    "createdAt": "2026-05-06T13:11:36.380Z",
+    "planSetAt": "2026-05-08T13:13:39.329Z"
+  },
+  {
+    "id": "CLT-1778579231122",
+    "contactName": "raj",
+    "companyName": "verdman",
+    "name": "verdman",
+    "email": "aer@gmail.com",
+    "password": "$2b$10$JBN8lf5DagQ9AkiityN9BeCgFLaY6f95wMh.MxUYzKCZOwV1og4wm",
+    "assignedCaseIds": [],
+    "plan": "free",
+    "createdAt": "2026-05-12T09:47:11.122Z",
+    "planSetAt": "2026-05-12T09:47:15.680Z"
+  },
+  {
+    "id": "CLT-1778670924765",
+    "contactName": "aryan",
+    "companyName": "tervies",
+    "name": "tervies",
+    "email": "as@123.com",
+    "password": "$2b$10$qgIRfxBaGitm3.onDK8D6O/MY.SxO7./.Oz79wEL2ELnDyxRqhnJ2",
+    "assignedCaseIds": [],
+    "plan": null,
+    "createdAt": "2026-05-13T11:15:24.765Z"
+  },
+  {
+    "id": "CLT-1778681290612",
+    "contactName": "aryan chaudhary",
+    "companyName": "tervies",
+    "name": "tervies",
+    "email": "aryanchaudhary071234@gmail.com",
+    "password": "$2b$10$UmHv17s8yfiCLHKEqEFFCOw/pjoGWVwKj0tFuypMmryShcZ1q92/u",
+    "assignedCaseIds": [],
+    "plan": null,
+    "createdAt": "2026-05-13T14:08:10.612Z"
+  }
+]

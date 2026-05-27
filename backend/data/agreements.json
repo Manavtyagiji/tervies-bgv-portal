@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1773643539211,
+    "companyId": "CMP-1771230611877",
+    "agreement": {
+      "agreementName": "asd",
+      "agreementStatus": "Active",
+      "startDate": "2026-03-16",
+      "endDate": "2026-03-16",
+      "autoRenewal": false,
+      "services": {
+        "address": true,
+        "employment": true,
+        "education": true,
+        "criminal": true
+      },
+      "sla": {
+        "address": 2,
+        "employment": 3,
+        "education": 3,
+        "criminal": 1
+      },
+      "pricing": {
+        "address": 0,
+        "employment": 0,
+        "education": 0,
+        "criminal": 0
+      },
+      "billingCycle": "Monthly",
+      "paymentTerms": "Net 30",
+      "monthlyLimit": 1000,
+      "overagePrice": 0,
+      "contactName": "",
+      "contactEmail": "",
+      "contactPhone": ""
+    },
+    "createdAt": "2026-03-16T06:45:39.211Z"
+  },
+  {
+    "id": 1773825721370,
+    "createdAt": "2026-03-18T09:22:01.370Z"
+  },
+  {
+    "id": 1775796097647,
+    "companyId": "CMP-1775733265960-78",
+    "agreement": {
+      "agreementName": "ARYAN",
+      "agreementStatus": "Active",
+      "startDate": "",
+      "endDate": "",
+      "autoRenewal": false,
+      "services": {
+        "address": true,
+        "employment": true,
+        "education": true,
+        "criminal": true
+      },
+      "sla": {
+        "address": 2,
+        "employment": 3,
+        "education": 3,
+        "criminal": 1
+      },
+      "pricing": {
+        "address": 0,
+        "employment": 0,
+        "education": 0,
+        "criminal": 0
+      },
+      "billingCycle": "Monthly",
+      "paymentTerms": "Net 30",
+      "monthlyLimit": 1000,
+      "overagePrice": 0,
+      "contactName": "",
+      "contactEmail": "",
+      "contactPhone": ""
+    },
+    "createdAt": "2026-04-10T04:41:37.647Z"
+  }
+]
